@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://goatgreenville.github.io/sitemap.xml 
